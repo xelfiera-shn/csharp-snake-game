@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace CSharpSnakeGame.Objects
 {
-    public class Scheme : PictureBox
+    public class Schema : PictureBox
     {
-        public Scheme()
+        public Schema()
         {
             this.Size = new Size(40, 40);
             this.SizeMode = PictureBoxSizeMode.StretchImage;

@@ -97,7 +97,7 @@ namespace CSharpSnakeGame
                 headY >= pnlCanvas.Height || headY < 0)
                 return true;
 
-            return false;
+                return false;
         }
 
         private void pnlTop_MouseDown(object sender, MouseEventArgs e)

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpSnakeGame.Objects
 {
-    public class BodyPart : Scheme
+    public class BodyPart : Schema
     {
         public BodyPart()
         {

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CSharpSnakeGame.Objects
 {
-    public class Food : Scheme
+    public class Food : Schema
     {
         Random random = new Random();
 
