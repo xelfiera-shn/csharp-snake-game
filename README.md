@@ -1,5 +1,18 @@
-# CSharpSnakeGame
+# C# Snake Game
 
-Classic snake game developed in C#.
+A simple snake game written in C#, WinForms based.
 
-![Project Screenshot](Screenshot.png)
+![Screenshot](Screenshot.png)
+
+```bash
+   git clone https://github.com/xelfiera-shn/csharp-snake-game.git
+   ```
+
+## Controls
+
+- **W** - Move up
+- **A** - Move left
+- **S** - Move down
+- **D** - Move right
+
+---
