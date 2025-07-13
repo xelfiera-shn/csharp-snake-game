@@ -5,8 +5,8 @@ A simple snake game written in C#, WinForms based.
 ![Screenshot](Screenshot.png)
 
 ```bash
-   git clone https://github.com/xelfiera-shn/csharp-snake-game.git
-   ```
+git clone https://github.com/xelfiera-shn/csharp-snake-game.git
+```
 
 ## Controls
 
